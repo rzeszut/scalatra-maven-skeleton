@@ -1,0 +1,16 @@
+# compiled resources
+target/
+src/main/webapp/js/compiled/
+src/main/webapp/css/compiled/
+
+# backup trash
+*~
+
+# eclipse project files
+.classpath
+.project
+.settings
+
+# intellij idea project files
+.idea
+*.iml
